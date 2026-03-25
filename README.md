@@ -5,6 +5,8 @@
 > * ⭐ There are lots of options for low-cost prototyping and small series production. 
 > * 🌟 Their 24/7 support for payments and for reviewing makes our teams production scale rapdiy!
 
+### Author: Museok Seo (Power & Signals Lead) 
+
 The Driver Dashboard (DRD) is a PCB designed to act as the central hub of the interface between the driver and the solar racing car featuring LEDs, switches, and an LCD to display critical information of the car. This repository will go into details about the hardware design of this PCB from schematic to layout design. 
 
 Additionally, this project was sponsored by [**PCBWay**](https://www.pcbway.com/), who provided PCB manufacturing support and quick design review for the DRD! During the review process, they clarified aspects of the layout and identified a design fault, which was confirmed and resolved prior to the board being produced.
